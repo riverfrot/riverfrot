@@ -25,4 +25,4 @@
 
 ## 🔗 Links
 
-- 📄 [Portfolio](https://www.notion.so/Portfolio-2d156bf3c1888006a474da045e5c5dde?source=copy_link)
+- 📄 [Portfolio](https://www.notion.so/Portfolio-2b856bf3c188816e9036dbb4fb4dab5e?source=copy_link)

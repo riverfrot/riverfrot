@@ -26,4 +26,4 @@
 ## 🔗 Links
 
 - 📝 [Tech Blog](https://riverfront.tistory.com/)
-- 📄 [Portfolio](포트폴리오 링크)
+- 📄 [Portfolio](https://www.notion.so/Portfolio-2d156bf3c1888006a474da045e5c5dde?source=copy_link)

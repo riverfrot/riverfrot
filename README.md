@@ -1,16 +1,29 @@
-## Hi there 👋
+# 정동훈 | Backend Engineer
 
-<!--
-**riverfrot/riverfrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+6년차 블록체인 백엔드 개발자입니다.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend**
+- Java, Spring Boot, NestJS, Node.js, Go
+- MySQL, Redis, MongoDB
+
+**Blockchain**
+- EVM (Ethereum, BNB, Kaia), Aptos, Solana
+- GCP KMS/HSM, Web3.js, Ethers.js
+
+**DevOps**
+- Kubernetes, Docker, Jenkins, ArgoCD
+- Terraform, Helm, Prometheus, Grafana
+
+## 💼 Experience
+
+| 기간 | 회사 | 역할 |
+|------|------|------|
+| 2022.05 ~ 현재 | 마브렉스 (넷마블) | 블록체인 플랫폼 개발 |
+| 2019.01 ~ 2022.05 | RocketBC | 서비스 개발 |
+
+## 🔗 Links
+
+- 📝 [Tech Blog](https://riverfront.tistory.com/)
+- 📄 [Portfolio](포트폴리오 링크)

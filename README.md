@@ -1,59 +1,65 @@
-# 정동훈 | Backend Engineer
+# 👋 Hi, I'm DH
 
-6년차 백엔드 엔지니어로, 블록체인 플랫폼에서 대규모 분산 시스템의 설계·운영·최적화 경험을 보유하고 있습니다.  
-현재 LLM 기반 시스템과 AI 엔지니어링으로 역량을 확장하고 있습니다.
+**Backend Engineer | 6+ years of experience**
+**Clean Code & Scalable Architecture & AI Engineering enthusiast**
 
-## 🔑 Core Competency
+---
 
-- **API 서버 성능 최적화**: 400 TPS → 5,200 TPS 개선 (Redis/Local Cache + 쿼리 튜닝)
-- **K8s 기반 배포 자동화**: Jenkins/ArgoCD GitOps 파이프라인 구축, 배포 시간 87% 단축
-- **분산 시스템 안정성**: Redis 분산 락 기반 동시성 제어, 데이터 불일치 0건 달성
-- **시스템 진단 및 개선**: Node.js Heap Snapshot 분석으로 메모리 사용량 70% 감소
+## 🔗 🔧 Tech Stack Overview
 
-## 🛠 Tech Stack
+### ✅ Backend / Database
 
-**Backend**
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-- Java, Spring Boot, NestJS, Node.js, Go
-- MySQL, Redis, MongoDB
+### 🌿 DevOps / Cloud / Infra
 
-**DevOps & Infrastructure**
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-- Kubernetes, Docker, Helm, Terraform
-- Jenkins, ArgoCD (GitOps CI/CD)
-- Prometheus, Grafana (모니터링)
+### 🤖 AI / LLM (Exploring)
 
-**AI / LLM (학습 중)**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![RAG](https://img.shields.io/badge/RAG_Pipeline-blueviolet?style=flat)
+![MCP](https://img.shields.io/badge/MCP_Server-333333?style=flat)
+![Multi Agent](https://img.shields.io/badge/Multi--Agent_System-orange?style=flat)
 
-- LangGraph, LangChain, RAG Pipeline
-- Multi-Agent System, MCP Server
+---
 
-## 💼 Experience
+## 🏆 Key Achievements
 
-|기간               |회사        |역할          |주요 성과                          |
-|-----------------|----------|------------|-------------------------------|
-|2022.05 ~ 현재     |마브렉스 (넷마블)|블록체인 플랫폼 백엔드|API 5,200 TPS 최적화, K8s CI/CD 구축|
-|2019.01 ~ 2022.05|RocketBC  |서비스 백엔드 개발  |크로스체인 브릿지 시스템, 성능 30% 개선       |
+| Area | Achievement |
+|------|------------|
+| ⚡ API Performance | 400 → 5,200 TPS (13x improvement via Redis Cache + Query Tuning) |
+| 🚀 CI/CD Pipeline | K8s GitOps with Jenkins + ArgoCD, deployment time reduced by 87% |
+| 🔒 Distributed Systems | Zero data inconsistency with Redis distributed lock |
+| 🧠 Memory Optimization | 70% memory reduction via Node.js Heap Snapshot analysis |
 
-## 📌 Highlights
+---
 
-### 온프레미스 K8s CI/CD 파이프라인 구축
+## 📊 GitHub Stats
 
-- Jenkins + ArgoCD 기반 GitOps 배포 체계 설계 (30개 서비스)
-- 배포 시간 4시간 → 30분 (87% 단축)
-- Trivy 보안 스캔 자동화, ISO-27001 기준 충족
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-### API 서버 성능 최적화
+---
 
-- LoadRunner 부하 테스트로 병목 구간 식별
-- Redis Cache + 쿼리 튜닝으로 응답속도 550ms → 150ms
-- TPS 400 → 5,200 달성 (13배 향상)
-
-### 메모리 누수 분석 및 해결
-
-- Node.js Heap Snapshot 기반 근본 원인 분석
-- 아키텍처 개선으로 메모리 사용량 70% 감소
-
-## 🔗 Links
-
-- 📄 [Portfolio](https://www.notion.so/Portfolio-2b856bf3c188816e9036dbb4fb4dab5e?source=copy_link)
+<p align="center">
+  <i>Building scalable systems by day, exploring AI engineering by night 🌙</i>
+</p>
